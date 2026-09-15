@@ -8,6 +8,6 @@ public class Bai2
     {
         Console.Write("Nhap ho ten cua ban: ");
         string name = Console.ReadLine();
-        Console.Write("Chao ban {0}", name);
+        Console.Write("Chao ban {0}!", name);
     }
 }

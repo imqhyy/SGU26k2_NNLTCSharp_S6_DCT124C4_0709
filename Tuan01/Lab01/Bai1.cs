@@ -1,7 +1,5 @@
 namespace Bai1;
 using System;
-
-
 public class Bai1
 {
     public static void run()
