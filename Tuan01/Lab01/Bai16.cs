@@ -148,13 +148,16 @@ public class Bai16
             
 
             if(index_a == 0 && index_b > 0)
-            {
+            {   
+                //tên b còn nhưng tên a chứng tỏ tên a ngắn hơn
                 return true;
             } else if (index_a > 0 && index_b == 0)
             {
+                //tên a còn nhưng tên b hết chứng tỏ tên b ngắn hơn
                 return false;
             } else if (index_a == 0 && index_b == 0)
             {
+                //tên a và tên b hết cùng lúc
                 return true;
             }
 
