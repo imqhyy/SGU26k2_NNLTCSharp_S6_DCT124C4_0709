@@ -1,0 +1,15 @@
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\bin\Debug\net8.0\Lab02.exe
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\bin\Debug\net8.0\Lab02.deps.json
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\bin\Debug\net8.0\Lab02.dll
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\bin\Debug\net8.0\Lab02.pdb
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.sourcelink.json
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.dll
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.pdb
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan02\Lab02\obj\Debug\net8.0\ref\Lab02.dll

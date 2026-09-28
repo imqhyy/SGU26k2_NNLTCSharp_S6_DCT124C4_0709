@@ -2,4 +2,8 @@
   <Folder Name="/Tuan01/">
     <Project Path="Tuan01/Lab01/Lab01.csproj" />
   </Folder>
+  <Folder Name="/Tuan02/">
+    <Project Path="Tuan02/Lab01/Lab01.csproj" />
+    <Project Path="Tuan02/Lab02/Lab02.csproj" />
+  </Folder>
 </Solution>
