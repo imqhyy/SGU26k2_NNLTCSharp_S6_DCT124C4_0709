@@ -6,4 +6,51 @@
     <Project Path="Tuan02/Lab01/Lab01.csproj" />
     <Project Path="Tuan02/Lab02/Lab02.csproj" />
   </Folder>
+  <Folder Name="/Tuan03/">
+    <Project Path="Tuan03/BaiThucHanhLINQ/BaiThucHanhLINQ.csproj" />
+  </Folder>
+
+
+  <Folder Name="/Tuan04/" />
+  <Folder Name="/Tuan04/4c/BaiTap4/">
+    <Project Path="Tuan04/4c/BaiTap4/frmBaiTap4/frmBaiTap4.csproj" Id="c1f3d1da-1d23-43ae-9559-802229b244c5" />
+  </Folder>
+
+  <Folder Name="/Tuan04/4c/BaiTapMau1.2/">
+    <Project Path="Tuan04/4c/BaiTapMau1.2/frmBaiTap1/frmBaiTap1.csproj" Id="35b7d6de-9d6d-4fa6-bf1d-f5f3d33d92d5" />
+  </Folder>
+  <Folder Name="/Tuan04/4c/" />
+  
+  <Folder Name="/Tuan04/4c/BaiTap2/">
+    <Project Path="Tuan04/4c/BaiTap2/frmBaiTap2_1/frmBaiTap2_1.csproj" Id="b5bf5aec-a35d-4e9c-90d4-306d46fd402f" />
+    <Project Path="Tuan04/4c/BaiTap2/frmBaiTap2_2/frmBaiTap2_2.csproj" Id="7a83c01f-58f2-44bc-af9e-d9405e218575" />
+    <Project Path="Tuan04/4c/BaiTap2/frmBaiTap2_3/frmBaiTap2_3.csproj" Id="4c3199e5-caf6-46a8-b9f9-adb72527d9ce" />
+    <Project Path="Tuan04/4c/BaiTap2/frmBaiTap2_4/frmBaiTap2_4.csproj" Id="6a0ef245-562e-4dd6-90f7-14fb8a2eac52" />
+    <Project Path="Tuan04/4c/BaiTap2/frmBaiTap2_5/frmBaiTap2_5.csproj" Id="78ceb479-e931-43d3-931d-0315396d89f8" />
+  </Folder>
+  <Folder Name="/Tuan04/4c/BaiTap3/">
+    <Project Path="Tuan04/4c/BaiTap3/frmBaiTap3_1/frmBaiTap3_1.csproj" Id="bb54234c-0a47-4acc-b86f-d9cfb225d829" />
+  </Folder>
+  
+  <Folder Name="/Tuan04/4d/" />
+  <Folder Name="/Tuan04/4d/BaiTap2/">
+    <Project Path="Tuan04/4d/BaiTap2/frmBaiTap1/frmBaiTap1.csproj" Id="b07fb19f-0699-4407-bddc-2bdd9026bd96" />
+    <Project Path="Tuan04/4d/BaiTap2/frmBaiTap2/frmBaiTap2.csproj" Id="749ab551-6697-4396-a81d-4d32d2c3abec" />
+  </Folder>
+  <Folder Name="/Tuan04/4d/BaiTap3/">
+    <Project Path="Tuan04/4d/BaiTap3/frmBaiTap1/frmBaiTap1.csproj" Id="b4f43cfc-ccb2-40a1-887a-db2b3bfe3513" />
+  </Folder>
+  <Folder Name="/Tuan04/4d/BaiTap4/">
+    <Project Path="Tuan04/4d/BaiTap4/frmBaiTap1/frmBaiTap1.csproj" Id="2ce9bde9-2611-4996-9d51-ed482a861717" />
+  </Folder>
+  <Folder Name="/Tuan04/4d/BaiTapMau1.2/">
+    <Project Path="Tuan04/4d/BaiTapMau1.2/frmBaiTap1/frmBaiTap1.csproj" Id="82744a30-d675-4f98-a2a0-4abfbf275714" />
+    <Project Path="Tuan04/4d/BaiTapMau1.2/frmBaiTap2/frmBaiTap2.csproj" Id="0daeb0c3-f25c-446e-a0e0-445c4b5e837d" />
+  </Folder>
+
+  
+  
+  
+  
+  
 </Solution>

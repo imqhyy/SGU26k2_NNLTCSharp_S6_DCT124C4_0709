@@ -1,0 +1,10 @@
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.AssemblyReference.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.Form1.resources
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.Properties.Resources.resources
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.GenerateResource.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.exe.config
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.exe
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.pdb
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.exe
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan04\4c\BaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.pdb

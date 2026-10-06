@@ -13,3 +13,4 @@ C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\T
 C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan01\Lab01\obj\Debug\net8.0\Lab01.pdb
 C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan01\Lab01\obj\Debug\net8.0\Lab01.genruntimeconfig.cache
 C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan01\Lab01\obj\Debug\net8.0\ref\Lab01.dll
+C:\Users\huy\Downloads\code\laptrinhCSharp\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\Tuan01\Lab01\obj\Debug\net8.0\Lab01.csproj.Up2Date

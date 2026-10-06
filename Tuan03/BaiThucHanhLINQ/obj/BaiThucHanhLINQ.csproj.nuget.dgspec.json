@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiTHucHanhLINQ\\BaiThucHanhLINQ.csproj": {}
+    "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiTHucHanhLINQ\\BaiThucHanhLINQ.csproj": {
+    "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiTHucHanhLINQ\\BaiThucHanhLINQ.csproj",
+        "projectUniqueName": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
         "projectName": "BaiThucHanhLINQ",
-        "projectPath": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiTHucHanhLINQ\\BaiThucHanhLINQ.csproj",
+        "projectPath": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiThucHanhLINQ\\BaiThucHanhLINQ.csproj",
         "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiTHucHanhLINQ\\obj\\",
+        "outputPath": "C:\\Users\\huy\\Downloads\\code\\laptrinhCSharp\\SGU26k2_NNLTCSharp_S6_DCT124C4_0709\\Tuan03\\BaiThucHanhLINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
