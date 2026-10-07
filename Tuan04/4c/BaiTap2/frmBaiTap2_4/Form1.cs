@@ -20,36 +20,50 @@ namespace frmBaiTap2_4
         }
 
         // ==========================================
-        // 1. NÚT NHẬP (THÊM SỐ VÀO DÃY VÀ TÍNH TOÁN)
+        // 1. NÚT NHẬP (THÊM DÃY SỐ VÀ TÍNH TOÁN)
         // ==========================================
         private void btnNhap_Click(object sender, EventArgs e)
         {
             errorProvider1.Clear();
 
-            // Kiểm tra dữ liệu đầu vào
+            // 1. Kiểm tra ô nhập có bị bỏ trống không
             if (string.IsNullOrWhiteSpace(txtNhapSo.Text))
             {
-                errorProvider1.SetError(txtNhapSo, "Vui lòng nhập một số nguyên!");
+                errorProvider1.SetError(txtNhapSo, "Vui lòng nhập một dãy số!");
                 txtNhapSo.Focus();
                 return;
             }
 
-            if (!int.TryParse(txtNhapSo.Text.Trim(), out int so))
+            // 2. Tách chuỗi thành các phần tử (hỗ trợ phân tách bằng dấu cách ' ' hoặc dấu phẩy ',')
+            string[] tokens = txtNhapSo.Text.Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
+
+            List<int> danhSachMoi = new List<int>();
+
+            // 3. Kiểm tra tính hợp lệ của từng phần tử trong chuỗi
+            foreach (string item in tokens)
             {
-                errorProvider1.SetError(txtNhapSo, "Giá trị nhập phải là một số nguyên hợp lệ!");
-                MessageBox.Show("Vui lòng chỉ nhập số nguyên!", "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                txtNhapSo.SelectAll();
-                txtNhapSo.Focus();
-                return;
+                if (int.TryParse(item.Trim(), out int so))
+                {
+                    danhSachMoi.Add(so);
+                }
+                else
+                {
+                    errorProvider1.SetError(txtNhapSo, $"Phần tử '{item}' không phải là số nguyên hợp lệ!");
+                    MessageBox.Show($"Giá trị '{item}' không đúng định dạng số nguyên. Vui lòng kiểm tra lại!",
+                                    "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    txtNhapSo.SelectAll();
+                    txtNhapSo.Focus();
+                    return;
+                }
             }
 
-            // 1. Lưu số vào danh sách
-            danhSachSo.Add(so);
+            // 4. Cập nhật danh sách (lưu dãy số mới nhập)
+            danhSachSo = danhSachMoi;
 
-            // 2. Hiển thị dãy số đã nhập (nối các số cách nhau bởi khoảng trắng)
+            // 5. Hiển thị dãy số lên ô txtDaySo
             txtDaySo.Text = string.Join(" ", danhSachSo);
 
-            // 3. Tính toán tổng dãy, tổng chẵn, tổng lẻ
+            // 6. Tính tổng dãy, tổng chẵn, tổng lẻ
             int tongDay = 0;
             int tongChan = 0;
             int tongLe = 0;
@@ -67,16 +81,11 @@ namespace frmBaiTap2_4
                 }
             }
 
-            // 4. Xuất kết quả ra các ô
+            // 7. Hiển thị kết quả ra giao diện
             txtTongDay.Text = tongDay.ToString();
             txtTongChan.Text = tongChan.ToString();
             txtTongLe.Text = tongLe.ToString();
-
-            // 5. Chuẩn bị cho lần nhập tiếp theo
-            txtNhapSo.Clear();
-            txtNhapSo.Focus();
         }
-
         // ==========================================
         // 2. NÚT TIẾP TỤC (TRẢ VỀ TRẠNG THÁI BAN ĐẦU)
         // ==========================================
@@ -125,7 +134,7 @@ namespace frmBaiTap2_4
         // ==========================================
         private void txtNhapSo_TextChanged(object sender, EventArgs e)
         {
-            if (int.TryParse(txtNhapSo.Text.Trim(), out _))
+            if (!string.IsNullOrWhiteSpace(txtNhapSo.Text))
             {
                 errorProvider1.SetError(txtNhapSo, "");
             }

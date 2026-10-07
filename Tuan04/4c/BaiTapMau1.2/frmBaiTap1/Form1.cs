@@ -36,8 +36,8 @@ namespace frmBaiTap1
         private void txtYear_TextChanged(object sender, EventArgs e)
         {
             Control ctr = (Control)sender;
-            // Kiểm tra ký tự cuối cùng vừa nhập có phải là chữ số hay không
-            if (ctr.Text.Length > 0 && !char.IsDigit(ctr.Text[ctr.Text.Length - 1]))
+            // Kiểm tra chuỗi có phải số không
+            if (ctr.Text.Length > 0 && !int.TryParse(ctr.Text, out _))
             {
                 this.errorProvider1.SetError(ctr, "This is not a valid number");
             }

@@ -74,7 +74,7 @@ namespace frmBaiTap3_1
             int tongTien = 0;
             int soGheChon = 0;
 
-            // Duyệt bên trong groupBox1 (hoặc panel1) thay vì this.Controls
+            // Duyệt bên trong groupBox1 thay vì this.Controls
             foreach (Control ctr in groupBox1.Controls)
             {
                 if (ctr is Button btn && btn.BackColor == Color.Blue)
